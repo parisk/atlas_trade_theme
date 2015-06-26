@@ -1,6 +1,6 @@
-# Atlas Trade Theme
+# Paris Kasidiaris - Atlas Trade Theme
 
-This repository collects the CSS styles for the "Trade" theme in the O'Reilly Atlas authoring system. This theme defines styles for all common book elements, for all output formats: PDF (print), EPUB (iPad, Nook, etc.), and MOBI (Kindle). Note that design changes will not be accepted for this theme. If you'd like to customize the design, consider building your own template, or adding oneoff customizations directly to your project.
+This repository collects the CSS styles for the "Trade" theme of Paris Kasidiaris in the O'Reilly Atlas authoring system.
 
 ## How Do the Styles Differ Between Formats?
 
